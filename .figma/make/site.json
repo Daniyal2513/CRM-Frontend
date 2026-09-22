@@ -1,0 +1,10 @@
+{
+  "description": "This sleek CRM dashboard enhances customer relationship management for businesses by providing intuitive tools for tracking leads, automating workflows, and analyzing performance.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
